@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vasanth2k472@gmail.com**
 
-- 📄 Know about my experiences as a graphic designer, I have the flexibility to work on various projects independently. From creating eye-catching posters, visiting cards, standees, brochures, to designing certificates, my freelancing journey allows me to explore diverse aspects of graphic design and provide unique visual solutions for clients. As a graphic designer, I have the flexibility to work on various projects independently. From creating eye-catching posters, visiting cards, standees, brochures, to designing certificates, my freelancing journey allows me to explore diverse aspects of graphic design and provide unique visual solutions for clients.
+- 📄 Know about my experiences as a graphic designer, I have the flexibility to work on various projects independently. From creating eye-catching posters, visiting cards, standees, brochures, to designing certificates, my freelancing journey allows me to explore diverse aspects of graphic design and provide unique visual solutions for clients. As a graphic designer, I have the flexibility to work on various projects independently. From creating eye-catching posters, Wecd Design, visiting cards, standees, brochures and certificates. My freelancing journey allows me to explore diverse aspects of graphic design and provide unique visual solutions for clients.
 
 - ⚡ Fun fact **The term "bug" was coined in computer engineering when a moth caused a malfunction in the Harvard Mark II computer in 1947. This gave birth to the term "debugging" for fixing computer issues.**
 
