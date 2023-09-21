@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Vasanthkumar</h1>
 <h3 align="center">Crafting Code, Shaping Solutions: Computer Science Engineer</h3>
 
