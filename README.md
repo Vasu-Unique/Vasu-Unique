@@ -38,6 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasu-unique&show_icons=true&locale=en&layout=compact" alt="vasu-unique" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu-unique&show_icons=true&locale=en" alt="vasu-unique" /></p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vasu-unique&" alt="vasu-unique" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vasu-unique&show_icons=true&locale=en" alt="vasu-unique" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=Vasu-Unique" alt="vasu-unique" /></p>
 
 
